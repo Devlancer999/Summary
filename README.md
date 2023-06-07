@@ -1,5 +1,5 @@
 <p align="center">
-WordPress Expert - Developer & Designer | SEO & E-commerce Specialist
+WordPress, MERN Stack Developer & Designer | SEO & E-commerce Specialist
 </p>
 <br />
 <p>SENIOR Web Developer - Wordpress, PHP, Node.js, Next.js, React.js, Express.js </p>
