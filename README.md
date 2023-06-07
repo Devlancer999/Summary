@@ -1,20 +1,17 @@
 <p align="center">
-Video Expert - FFMPEG, OpenCV, GStreamer, WebRTC
+WordPress Expert - Developer & Designer | SEO & E-commerce Specialist
 </p>
-
 <br />
-
-<p>SENIOR AI ENGINEER - FFMPEG, GSTREAMER, WEBRTC, OPENCV, PYTHON</p>
+<p>SENIOR Web Developer - Wordpress, PHP, Node.js, Next.js, React.js, Express.js </p>
 <br>
 <p>
-As a video and multimedia expert, I bring a wide range of technical skills to the table, including FFMPEG, GStreamer, WebRTC, OpenCV, and OpenAI. 
-Whether you need help processing video streams, building real-time communication apps, analyzing image data, or developing machine learning models, I have the experience and expertise to get the job done.
-Here are some of the things I can do for you:
-- Develop custom multimedia pipelines using FFMPEG and GStreamer, including complex workflows that involve multiple video and audio streams
-- Build WebRTC-based applications that enable real-time video and voice communication over the web
-- Process image and video data using OpenCV, including tasks such as object detection, tracking, and segmentation
-- Build machine learning models using OpenAI, including natural language processing, image classification, and predictive analytics
-Design and implement multimedia applications that are optimized for performance, reliability, and scalability
+SUMMARY
+
+I'm a top rated Web Expert with the Wordpress, WooCommerce, PHP, MernStack skills and technologies. I am able to deliver a complete range of web services all in one. For this reason, I am looking for long term relationships with clients. I've gained a reputation as a universal problem solver who delivers high-quality, state-of-the-art solutions on time and budget.
+I will manage your project and ensure you will not turn back tofind any queries in the project. I provide 100% industry quality results. Feel free to contact me for consultation, or questions regarding eCommerce frameworks. Thank you!
+
+Skill
+Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQuery, React, Next.js, Node.js, Mysql, Agile Software Development
 </p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
