@@ -23,7 +23,7 @@ Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQue
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plan.svg" width="100"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
