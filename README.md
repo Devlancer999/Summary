@@ -1,8 +1,8 @@
 <p align="center">
-WordPress, MERN Stack Developer & Designer | SEO & E-commerce Specialist
+Experienced Senior Developer | Specialized in CMS, Laravel, MERN Stack
 </p>
 <br />
-<p>SENIOR Web Developer - Wordpress, PHP, Node.js, Next.js, React.js, Express.js </p>
+<p>SENIOR Web Developer - Wordpress, PHP, Laravel, Node.js, Next.js, Express.js, React.js </p>
 <br>
 <p>
 SUMMARY
