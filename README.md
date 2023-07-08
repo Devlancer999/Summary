@@ -17,13 +17,13 @@ Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQue
 <table>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="100"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100"/>
     </td>
     <td>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="100"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/laravel-original.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
@@ -48,6 +48,15 @@ Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQue
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="100"/>
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="100"/>
     </td>
   </tr>
   
