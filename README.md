@@ -1,5 +1,5 @@
 <p align="center">
-Experienced Senior Developer | Specialized in CMS, Laravel, MERN Stack
+Experienced Senior Web Developer | Expertise in Wordpress, Laravel, and MERN Stack
 </p>
 <br />
 <p>SENIOR Web Developer - PHP, Wordpress, Laravel, Node.js, Next.js, Express.js, React.js </p>
