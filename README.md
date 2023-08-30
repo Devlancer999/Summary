@@ -10,7 +10,7 @@ SUMMARY
 I'm a top rated Web Expert with the Wordpress, WooCommerce, PHP, MernStack skills and technologies. I am able to deliver a complete range of web services all in one. For this reason, I am looking for long term relationships with clients. I've gained a reputation as a universal problem solver who delivers high-quality, state-of-the-art solutions on time and budget.
 I will manage your project and ensure you will not turn back tofind any queries in the project. I provide 100% industry quality results. Feel free to contact me for consultation, or questions regarding eCommerce frameworks. Thank you!
 
-Skill
+Skill:
 Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQuery, React, Next.js, Node.js, Mysql, Agile Software Development
 </p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
