@@ -7,11 +7,13 @@ Experienced Web Developer | Wordpress Developer
 <p>
 SUMMARY
 
-I'm a top rated Web Expert with the Wordpress, WooCommerce, PHP, MernStack skills and technologies. I am able to deliver a complete range of web services all in one. For this reason, I am looking for long term relationships with clients. I've gained a reputation as a universal problem solver who delivers high-quality, state-of-the-art solutions on time and budget.
-I will manage your project and ensure you will not turn back tofind any queries in the project. I provide 100% industry quality results. Feel free to contact me for consultation, or questions regarding eCommerce frameworks. Thank you!
+With over 7 years of experience as an ambitious CMS expert, I specialize in delivering exceptional web solutions on PHP, CMS platforms like WordPress, Shopify, Laravel, and MERN Stack. 
+My core strengths lie in HTML5, CSS3, and Javascript development.
+I excel in utilizing WPEngine, WooCommerce, Elemento, Gutenberg, Divi, GravityForm, and ACF to deliver high-performance websites, while also optimizing techniques for efficient and seamless user experiences.
+With a strong skillset and proven experience, I am committed to providing precise and satisfactory solutions for all your project requirements.
 
 Skill:
-Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTMl5, Github, Javascript, jQuery, React, Next.js, Node.js, Mysql, Agile Software Development
+Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTML5, Github, Javascript, jQuery, React, Next.js, Node.js, Mysql, Agile Software Development
 </p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
