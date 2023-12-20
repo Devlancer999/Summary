@@ -1,19 +1,19 @@
 <p align="center">
-Experienced Web Developer | Wordpress Developer
+Experienced Full-Stack Web Developer
 </p>
 <br />
-<p>SENIOR Web Developer - PHP, Wordpress, Laravel, Node.js, Next.js, Express.js, React.js </p>
+<p>Full-Stack Web Developer -  React.js, Node.js, Next.js, Express.js, PHP, Wordpress, Shopify, Laravel </p>
 <br>
 <p>
 SUMMARY
 
-With over 7 years of experience as an ambitious CMS expert, I specialize in delivering exceptional web solutions on PHP, CMS platforms like WordPress, Shopify, Laravel, and MERN Stack. 
+With over 7 years of experience as an ambitious Full-Stack Web Developer, I specialize in delivering exceptional web solutions on MERN Stack and PHP, CMS platforms like WordPress, Shopify, Laravel. 
 My core strengths lie in HTML5, CSS3, and Javascript development.
 I excel in utilizing WPEngine, WooCommerce, Elemento, Gutenberg, Divi, GravityForm, and ACF to deliver high-performance websites, while also optimizing techniques for efficient and seamless user experiences.
 With a strong skillset and proven experience, I am committed to providing precise and satisfactory solutions for all your project requirements.
 
 Skill:
-Wordpress, PHP, WooCommerce, Restful API, CSS 3, HTML5, Github, Javascript, jQuery, React, Next.js, Node.js, Mysql, Agile Software Development
+HTML5, CSS 3, Javascript, jQuery, React, Next.js, Node.js, Mysql, Wordpress, Shopify, PHP, WooCommerce, Restful API, Github, Agile Software Development
 </p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
